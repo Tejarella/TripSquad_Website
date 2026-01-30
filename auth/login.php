@@ -166,7 +166,7 @@ if (isset($_POST['login'])) {
 
     <!-- Left: Logo + Home -->
     <div class="flex items-center space-x-6">
-      <a href="index.php" class="flex items-center space-x-2 hover:opacity-80 transition">
+      <a href="../index.php" class="flex items-center space-x-2 hover:opacity-80 transition">
         <span class="text-3xl">🌴</span>
         <span class="text-2xl font-bold text-primary">TripSquad</span>
       </a>
