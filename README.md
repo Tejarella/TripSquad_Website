@@ -18,7 +18,7 @@
 
 | Itinerary | Expense Splitting |
 |-----------|-------------------|
-| ![Itinerary](./tripdetails.png) | ![Expenses](./expensesplitting.png) |
+| ![addmembers](./members.png) | ![Expenses](./expensesplitting.png) |
 
 ---
 
